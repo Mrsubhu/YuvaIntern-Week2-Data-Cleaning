@@ -1,0 +1,14 @@
+Metric,Value
+Original Rows,541909
+Final Rows,536641
+Rows Removed,5268
+Original Columns,8
+Final Columns,15
+Duplicates Before Cleaning,5268
+Duplicates After Cleaning,0
+Missing Values Before Cleaning,136534
+Missing Values After Cleaning,135149
+Missing CustomerID After Cleaning,135037
+Missing Description After Cleaning,112
+Negative Quantity Rows,10587
+Zero or Negative UnitPrice Rows,2512
